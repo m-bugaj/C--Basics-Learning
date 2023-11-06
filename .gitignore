@@ -1,0 +1,150 @@
+# Compiled files
+*.mex
+*.snk
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# User-specific Visual Studio files
+[Tt]humbs.db
+*.suo
+*.[Cc]ache
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+# User-specific Mono files
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# User-specific Visual Studio files
+[Tt]humbs.db
+*.suo
+*.[Cc]ache
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Rider
+.idea
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# User-specific Visual Studio files
+[Tt]humbs.db
+*.suo
+*.[Cc]ache
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Resharper
+_ReSharper*/
+
+# User-specific files
+_ReSharper*/
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# User-specific Visual Studio files
+[Tt]humbs.db
+*.suo
+*.[Cc]ache
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Rider
+.idea
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# User-specific Visual Studio files
+[Tt]humbs.db
+*.suo
+*.[Cc]ache
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Rider
+.idea
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# Rider-specific files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# User-specific Rider files
+.idea/*
